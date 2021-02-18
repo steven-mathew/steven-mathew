@@ -5,7 +5,7 @@
   </p>
 </p>
 
-<p>Hi there, I'm <a href="http://steven-mathew.github.io/">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦 attending UofT interested in open-source develpment. 👋 </p>
+<p>Hi there, I'm <a href="http://steven-mathew.github.io/">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦  attending UofT interested in open-source develpment. 👋 </p>
 
 <details>
   <summary><b>2021 Goal 🌱</b></summary>
