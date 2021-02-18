@@ -1,4 +1,16 @@
-### Hi there 👋
+<p><img src="https://github.com/rishiosaur/rishiosaur/raw/master/hero.png" alt="Steven">
+  <p align="center">
+    <a href="https://linkedin.com/in/heyrishi/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/heyrishi/" alt="Linkedin"></a>
+<a href="https://steven-mathew.github.io/"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://steven-mathew.github.io/" alt="Website"></a>
+  </p>
+</p>
+
+<p>Hi there, I'm <a href="http://steven-mathew.github.io/">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦 attending UofT interested in open-source develpment. 👋 </p>
+
+<details>
+  <summary><h3>:telescope: 2021 Goal 🌱</h3></summary>
+  Try out <a href="https://www.rust-lang.org/">rust</a> and write a programming-language based in it. 
+</details>
 
 <!--
 **steven-mathew/steven-mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
