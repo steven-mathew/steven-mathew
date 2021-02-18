@@ -1,6 +1,6 @@
-<p><img src="https://github.com/rishiosaur/rishiosaur/raw/master/hero.png" alt="Steven">
+<p><img src="https://github.com/steven-mathew/steven-mathew/raw/master/hero.png" alt="Steven">
   <p align="center">
-    <a href="https://linkedin.com/in/heyrishi/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/heyrishi/" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/in/steven-mathew-b00249204/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-mathew-b00249204/" alt="Linkedin"></a>
 <a href="https://steven-mathew.github.io/"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://steven-mathew.github.io/" alt="Website"></a>
   </p>
 </p>
