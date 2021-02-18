@@ -8,7 +8,7 @@
 <p>Hi there, I'm <a href="http://steven-mathew.github.io/">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦 attending UofT interested in open-source develpment. 👋 </p>
 
 <details>
-  <summary><h3>:telescope: 2021 Goal 🌱</h3></summary>
+  <summary><b>2021 Goal 🌱</b></summary>
   Try out <a href="https://www.rust-lang.org/">rust</a> and write a programming-language based in it. 
 </details>
 
