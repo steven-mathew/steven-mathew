@@ -9,6 +9,15 @@
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=steven-mathew&show_icons=true&count_private=true&hide=contribs,prs&theme=dracula" alt="Steven&#39;s GitHub Stats"></a></p>
 
+```json
+{
+  "name": "Steven Mathew",
+  "status": "uoft cs '23", // looking for internships
+  "location": "Toronto, Canada"
+ }
+```
+
+
 <details>
   <summary><b>2021 Goal 🌱</b></summary>
   Try out <a href="https://www.rust-lang.org/">rust</a> and write a programming-language based in it. 
