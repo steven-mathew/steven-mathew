@@ -5,14 +5,14 @@
   </p>
 </p>
 
-<p>Hi there, I'm <a href="http://steven-mathew.github.io/website">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦 &#160;attending UofT interested in open-source develpment. 👋 </p>
+<p>Hi there, I'm <a href="http://steven-mathew.github.io/website">Steven</a> and welcome to my GitHub. I'm a second-year student based in Toronto 🇨🇦 &#160;attending UofT. I'm interested in open-source develpment. 👋 </p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=steven-mathew&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Steven&#39;s GitHub Stats"></a></p>
 
 ```json
 {
   "name": "Steven Mathew",
-  "status": "UofT CS Specialist 2023 // looking for internships",
+  "status": "UofT CS Specialist 2023" // looking for internships,
   "location": "Toronto, Canada"
  }
 ```
