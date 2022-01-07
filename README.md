@@ -13,9 +13,9 @@
 ```json
 {
   "name": "Steven Mathew",
-  "status": "UofT CS Specialist 2023 -- looking for internships",
+  "status": "UofT CS Specialist 2023",
   "location": "Toronto, Canada"
- }
+}
 ```
 
 
