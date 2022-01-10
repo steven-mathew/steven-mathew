@@ -1,40 +1,22 @@
+```ruby
+                 eval                                           ($s=
+                 %w(s
+                 =%(e
+    val($s=%w    (#{ $s})*"       "));p   uts(       ["1m      e8uff
+   wk114  w0",   "1651c","16    51c","1o   dcif     bc3c     pi40","3
+   g3sb          4v3l         0xhx   4","   6jex   pv7y    h4gg   oo",
+     "6ifrtnz6   rzun         6o"     ,"1    n8yy vfzv     yob    nk",
+        "7nyayb  0x77         9tc  ","6       l8dz1e9      og9  hbs"
+    ,"3    g39y  7r1g         w41c0"           ].map       {|l|((
+   0..70).map{    |i|l.to_i    (36)  [i]>       0?s         .sli  ce!(
+      0):32.        chr}*       "").rstr         i           p}))*"")
+```
+
+<sub>[Run this code](https://wandbox.org/permlink/sHtM8TupgCfi6VfA)</sub>
+
 <p><img src="hero.png" alt="Steven">
   <p align="center">
     <a href="https://www.linkedin.com/in/steven-mathew-b00249204/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-mathew-b00249204/" alt="Linkedin"></a>
 <a href="https://steven-mathew.github.io/website"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://steven-mathew.github.io/website" alt="Website"></a>
   </p>
 </p>
-
-<p>Hi there, I'm <a href="https://stethomat.me">Steven</a> and welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
-<p>I'm a third-year student based in Toronto 🇨🇦 &#160;attending UofT interested in open-source develpment.</p>
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=steven-mathew&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="Steven&#39;s GitHub Stats"></a></p>
-
-```json
-{
-  "name": "Steven Mathew",
-  "status": "UofT CS Specialist 2023",
-  "location": "Toronto, Canada"
-}
-```
-
-
-<details>
-  <summary><b>2021 Goal 🌱</b></summary>
-  Try out <a href="https://www.rust-lang.org/">rust</a> and write a programming-language based in it. 
-</details>
-
-<!--
-**steven-mathew/steven-mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
