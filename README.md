@@ -14,7 +14,6 @@
 
 <sub>[Run this code](https://wandbox.org/permlink/sHtM8TupgCfi6VfA)</sub>
 
-<p><img src="hero.png" alt="Steven">
   <p align="center">
     <a href="https://www.linkedin.com/in/steven-mathew-b00249204/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-mathew-b00249204/" alt="Linkedin"></a>
 <a href="https://steven-mathew.github.io/website"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://steven-mathew.github.io/website" alt="Website"></a>
