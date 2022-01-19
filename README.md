@@ -12,7 +12,9 @@
       0):32.        chr}*       "").rstr         i           p}))*"")
 ```
 <p align="center">
-<sub>[Run this code](https://wandbox.org/permlink/sHtM8TupgCfi6VfA)</sub>
+  <a href="https://wandbox.org/permlink/sHtM8TupgCfi6VfA">Run this code</a>  
+</sub>
+  
 </p> 
   
 <p align="center">
