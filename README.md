@@ -11,18 +11,11 @@
    0..70).map{    |i|l.to_i    (36)  [i]>       0?s         .sli  ce!(
       0):32.        chr}*       "").rstr         i           p}))*"")
 ```
-<p align="center">
+<sub>
   <a href="https://wandbox.org/permlink/sHtM8TupgCfi6VfA">Run this code</a>  
 </sub>
-  
-</p> 
 
-[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-89cff0)](https://pronoun.is/he/him)
-[![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FEast-informational-ff69b4)](https://www.timeanddate.com/worldclock/canada/toronto)
+[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-ff69b4)](https://pronoun.is/he/him)
+[![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FEast-informational)](https://www.timeanddate.com/worldclock/canada/toronto)
+[![whoami](https://img.shields.io/badge/my-website-89cff0)](https://stethomat.me)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/steven-mathew/steven-mathew/Continuous%20Integration)](https://github.com/steven-mathew/steven-mathew/actions?query=workflow%3A%22Continuous+Integration%22)
-  
-<p align="center">
-    <a href="https://www.linkedin.com/in/steven-mathew-b00249204/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-mathew-b00249204/" alt="Linkedin"></a>
-<a href="https://stethomat.me"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://stethomat.me" alt="Website"></a>
-  </p>
-</p>
