@@ -17,7 +17,7 @@
 
 ---
 
-[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-ff69b4)](https://pronoun.is/he/him)
+[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-89cff0)](https://pronoun.is/he/him)
 [![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FEast-informational)](https://www.timeanddate.com/worldclock/canada/toronto)
-[![whoami](https://img.shields.io/badge/my-website-89cff0)](https://stethomat.me)
+[![whoami](https://img.shields.io/badge/my-website-ff69b4)](https://stethomat.me)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/steven-mathew/steven-mathew/Continuous%20Integration)](https://github.com/steven-mathew/steven-mathew/actions?query=workflow%3A%22Continuous+Integration%22)
