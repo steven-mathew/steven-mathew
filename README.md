@@ -19,6 +19,10 @@
   
 <p align="center">
     <a href="https://www.linkedin.com/in/steven-mathew-b00249204/"><img src="https://img.shields.io/badge/-steven-mathew?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/steven-mathew-b00249204/" alt="Linkedin"></a>
+[![he/him pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-ff69b4)](https://pronoun.is/he/him)
+[![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FEast-informational)](https://www.timeanddate.com/worldclock/canada/toronto)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/steven-mathew/steven-mathew/Continuous%20Integration)](https://github.com/steven-mathew/steven-mathew/actions?query=workflow%3A%22Continuous+Integration%22)
+
 <a href="https://stethomat.me"><img src="https://img.shields.io/badge/-website-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://stethomat.me" alt="Website"></a>
   </p>
 </p>
