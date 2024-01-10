@@ -1,4 +1,4 @@
-![](wolf.gif)
+![](dog.gif)
 
 ---
 
